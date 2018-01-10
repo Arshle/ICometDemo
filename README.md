@@ -1,2 +1,3 @@
 # ICometDemo
 IComet服务器实现
+调整单独的dubbo服务统一管理通道的建立与通信
